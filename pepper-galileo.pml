@@ -5,7 +5,12 @@
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="swiftswords_ext" src="behavior_1/swiftswords_ext.mp3" />
+        <File name="taichimove" src="behavior_1/taichimove.pmt" />
+        <File name="golf" src="behavior_1/golf.ogg" />
+        <File name="heaven1" src="behavior_1/behavior_1/heaven1.ogg" />
+    </Resources>
     <Topics />
     <IgnoredPaths />
     <Translations auto-fill="en_US">
